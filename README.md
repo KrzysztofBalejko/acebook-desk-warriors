@@ -63,3 +63,28 @@ First, clone this repository. Then:
 > bundle exec rspec # Run the tests to ensure it works
 > bin/rails server # Start the server at localhost:3000
 ```
+## Screenshots of the application:
+
+**Main page**
+
+![Main](./public/1.png)
+
+**Sign-up**
+
+![Sign-up](./public/2.png)
+
+**Creating a new post**
+
+![New post](./public/3.png)
+
+**Posts can be edited or deleted**
+
+![Posted](./public/4.png)
+
+**Users walls**
+
+![other users](./public/5.png)
+
+**User can post on other user's wall**
+
+![Posts](./public/6.png)
